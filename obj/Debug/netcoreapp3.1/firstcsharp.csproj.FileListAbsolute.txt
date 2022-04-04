@@ -1,0 +1,13 @@
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\bin\Debug\netcoreapp3.1\firstcsharp.exe
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\bin\Debug\netcoreapp3.1\firstcsharp.deps.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\bin\Debug\netcoreapp3.1\firstcsharp.runtimeconfig.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\bin\Debug\netcoreapp3.1\firstcsharp.runtimeconfig.dev.json
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\bin\Debug\netcoreapp3.1\firstcsharp.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\bin\Debug\netcoreapp3.1\firstcsharp.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\obj\Debug\netcoreapp3.1\firstcsharp.csprojAssemblyReference.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\obj\Debug\netcoreapp3.1\firstcsharp.AssemblyInfoInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\obj\Debug\netcoreapp3.1\firstcsharp.AssemblyInfo.cs
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\obj\Debug\netcoreapp3.1\firstcsharp.csproj.CoreCompileInputs.cache
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\obj\Debug\netcoreapp3.1\firstcsharp.dll
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\obj\Debug\netcoreapp3.1\firstcsharp.pdb
+C:\Users\nieme\Documents\CodingDojo\CSharpStack2022\11.1\firstcsharp\obj\Debug\netcoreapp3.1\firstcsharp.genruntimeconfig.cache
